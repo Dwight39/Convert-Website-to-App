@@ -1,6 +1,6 @@
 {
-  "appId": "com.jamesonsaunders.houstonzoo",
-  "appName": "Houston Zoo",
+  "appId": "org.missiongabrielministries.M.G.M",
+  "appName": "Mission Gabriel Ministries",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
